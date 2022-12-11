@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/mocharc",
+  "reporter": "spec",
+  "require": ["tsx"],
+  "spec": ["src/**/*.spec.ts"],
+  "timeout": 1000,
+  "ui": "bdd"
+}
